@@ -11,6 +11,8 @@
     --tooltip-background: #323232;
     --color-default: #d9d9d9;
     --color-default-background: #d9d9d950;
+    --color-c3: #7f7fff;
+    --color-c3-background: #7f7fff50;
 }
 
 .light-theme{
@@ -24,4 +26,6 @@
 
     --color-default: #4f5957;
     --color-default-background: #4f595750;
+    --color-c3: #7f7fff;
+    --color-c3-background: #7f7fff50;
 }

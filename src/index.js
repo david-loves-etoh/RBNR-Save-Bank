@@ -1,9 +1,9 @@
-import { TEMPLATE } from "./template";
+import { CHAPTER_3 } from "./chapter-3";
 import CategoryGrouped from "./classes/CategoryGrouped";
 import File from "./classes/File";
 
 const saves = [
-    TEMPLATE
+    CHAPTER_3
 ];
 
 const downloadAllSaves = File.downloadAllSaves;

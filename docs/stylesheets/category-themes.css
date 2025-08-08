@@ -11,3 +11,17 @@
     background-color: var(--color-default);
     color: var(--background);
 }
+
+.category-theme-c3 {
+    border-color: var(--color-c3);
+    color: var(--color-c3);
+}
+
+.category-theme-c3-background {
+    background-color: var(--color-c3-background);
+}
+
+.category-theme-c3.is-active {
+    background-color: var(--color-c3);
+    color: var(--background);
+}
