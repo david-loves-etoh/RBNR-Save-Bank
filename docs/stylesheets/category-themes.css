@@ -25,3 +25,17 @@
     background-color: var(--color-c3);
     color: var(--background);
 }
+
+.category-theme-c3_1 {
+    border-color: var(--color-c3_1);
+    color: var(--color-c3_1);
+}
+
+.category-theme-c3_1-background {
+    background-color: var(--color-c3_1-background);
+}
+
+.category-theme-c3_1.is-active {
+    background-color: var(--color-c3_1);
+    color: var(--background);
+}
