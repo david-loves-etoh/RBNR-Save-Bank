@@ -15,6 +15,8 @@
     --color-c3-background: #7f7fff50;
     --color-c3_1: #3ca809;
     --color-c3_1-background: #3ca80950;
+    --color-c3_2: #ff0000;
+    --color-c3_2-background: #ff000050;
 }
 
 .light-theme{
@@ -32,4 +34,6 @@
     --color-c3-background: #7f7fff50;
     --color-c3_1: #3ca809;
     --color-c3_1-background: #3ca80950;
+    --color-c3_2: #ff0000;
+    --color-c3_2-background: #ff000050;
 }
