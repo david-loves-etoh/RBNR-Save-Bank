@@ -39,3 +39,17 @@
     background-color: var(--color-c3_1);
     color: var(--background);
 }
+
+.category-theme-c3_2 {
+    border-color: var(--color-c3_2);
+    color: var(--color-c3_2);
+}
+
+.category-theme-c3_2-background {
+    background-color: var(--color-c3_2-background);
+}
+
+.category-theme-c3_2.is-active {
+    background-color: var(--color-c3_2);
+    color: var(--background);
+}
