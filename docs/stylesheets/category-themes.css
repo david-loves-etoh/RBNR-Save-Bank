@@ -53,3 +53,17 @@
     background-color: var(--color-c3_2);
     color: var(--background);
 }
+
+.category-theme-c4 {
+    border-color: var(--color-c4);
+    color: var(--color-c4);
+}
+
+.category-theme-c4-background {
+    background-color: var(--color-c4-background);
+}
+
+.category-theme-c4.is-active {
+    background-color: var(--color-c4);
+    color: var(--background);
+}
