@@ -81,3 +81,17 @@
     background-color: var(--color-c5);
     color: var(--background);
 }
+
+.category-theme-c5_1 {
+    border-color: var(--color-c5_1);
+    color: var(--color-c5_1);
+}
+
+.category-theme-c5_1-background {
+    background-color: var(--color-c5_1-background);
+}
+
+.category-theme-c5_1.is-active {
+    background-color: var(--color-c5_1);
+    color: var(--background);
+}

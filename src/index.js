@@ -3,6 +3,7 @@ import { CHAPTER_3_1 } from "./chapter-3_1";
 import { CHAPTER_3_2 } from "./chapter-3_2";
 import { CHAPTER_4 } from "./chapter-4";
 import { CHAPTER_5 } from "./chapter-5";
+import { CHAPTER_5_1 } from "./chapter-5_1";
 import CategoryGrouped from "./classes/CategoryGrouped";
 import File from "./classes/File";
 
@@ -11,7 +12,8 @@ const saves = [
     CHAPTER_3_1,
     CHAPTER_3_2,
     CHAPTER_4,
-    CHAPTER_5
+    CHAPTER_5,
+    CHAPTER_5_1
 ];
 
 const downloadAllSaves = File.downloadAllSaves;

@@ -21,6 +21,8 @@
     --color-c4-background: #ff220050;
     --color-c5: #c8bef5;
     --color-c5-background: #c8bef550;
+    --color-c5_1: #ff0000;
+    --color-c5_1-background: #ff000050;
 }
 
 .light-theme{
@@ -44,4 +46,6 @@
     --color-c4-background: #ff220050;
     --color-c5: #c8bef5;
     --color-c5-background: #c8bef550;
+    --color-c5_1: #ff0000;
+    --color-c5_1-background: #ff000050;
 }
