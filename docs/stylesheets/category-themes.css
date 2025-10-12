@@ -95,3 +95,17 @@
     background-color: var(--color-c5_1);
     color: var(--background);
 }
+
+.category-theme-c6 {
+    border-color: var(--color-c6);
+    color: var(--color-c6);
+}
+
+.category-theme-c6-background {
+    background-color: var(--color-c6-background);
+}
+
+.category-theme-c6.is-active {
+    background-color: var(--color-c6);
+    color: var(--background);
+}
