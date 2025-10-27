@@ -109,3 +109,17 @@
     background-color: var(--color-c6);
     color: var(--background);
 }
+
+.category-theme-c6_1 {
+    border-color: var(--color-c6_1);
+    color: var(--color-c6_1);
+}
+
+.category-theme-c6_1-background {
+    background-color: var(--color-c6_1-background);
+}
+
+.category-theme-c6_1.is-active {
+    background-color: var(--color-c6_1);
+    color: var(--background);
+}
